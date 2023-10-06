@@ -19,8 +19,8 @@
 
 ##
 
-![mxrqz top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mxrqz&theme=dark&hide=batchfile&layout=compact#gh-dark-mode-only)
-![mxrqz top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mxrqz&hide=batchfile&layout=compact#gh-light-mode-only)
+[![mxrqz top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mxrqz&theme=dark&hide=batchfile&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=mxrqz&theme=dark&hide=batchfile&layout=compact#gh-dark-mode-only)
+[![mxrqz top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mxrqz&theme=dark&hide=batchfile&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=mxrqz&theme=dark&hide=batchfile&layout=compact#gh-light-mode-only)
 
 ##
 
