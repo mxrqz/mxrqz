@@ -7,9 +7,12 @@
 
 ##
 
-[![mxrqz](https://img.shields.io/badge/mxrqz.com-191919?style=for-the-badge&logo=About.me&logoColor=white)](https://mxrqz.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-191919?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/mxrqz)
-[![Gmail](https://img.shields.io/badge/Gmail-191919?style=for-the-badge&logo=gmail&logoColor=white)](mailto:msw940220@gmail.com)
+[![mxrqz](https://img.shields.io/badge/mxrqz.com-191919?style=for-the-badge&logo=About.me&logoColor=white)](https://mxrqz.com#gh-dark-mode-only)
+[![mxrqz](https://img.shields.io/badge/mxrqz.com-ffffff?style=for-the-badge&logo=About.me&logoColor=191919)](https://mxrqz.com#gh-light-mode-only)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-191919?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/mxrqz#gh-dark-mode-only)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=191919)](https://linkedin.com/mxrqz#gh-light-mode-only)
+[![Gmail](https://img.shields.io/badge/Gmail-191919?style=for-the-badge&logo=gmail&logoColor=white)](mailto:msw940220@gmail.com#gh-dark-mode-only)
+[![Gmail](https://img.shields.io/badge/Gmail-ffffff?style=for-the-badge&logo=gmail&logoColor=191919)](mailto:msw940220@gmail.com#gh-light-mode-only)
 
 ##
 
