@@ -15,12 +15,12 @@
 
 [![mxrqz GitHub stats](https://github-readme-stats.vercel.app/api?username=mxrqz&show_icons=true&theme=dark)](https://github-readme-stats.vercel.app/api?username=mxrqz&show_icons=true&theme=dark#gh-dark-mode-only)
 
-[![mxrqz GitHub stats](https://github-readme-stats.vercel.app/api?username=mxrqz&show_icons=true&theme=dark)](https://github-readme-stats.vercel.app/api?username=mxrqz&show_icons=true&theme=dark#gh-light-mode-only)
+[![mxrqz GitHub stats](https://github-readme-stats.vercel.app/api?username=mxrqz&show_icons=true&)](https://github-readme-stats.vercel.app/api?username=mxrqz&show_icons=true&theme=dark#gh-light-mode-only)
 
 ##
 
 [![mxrqz top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mxrqz&theme=dark&hide=batchfile&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=mxrqz&theme=dark&hide=batchfile&layout=compact#gh-dark-mode-only)
-[![mxrqz top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mxrqz&theme=dark&hide=batchfile&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=mxrqz&theme=dark&hide=batchfile&layout=compact#gh-light-mode-only)
+[![mxrqz top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mxrqz&hide=batchfile&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=mxrqz&theme=dark&hide=batchfile&layout=compact#gh-light-mode-only)
 
 ##
 
