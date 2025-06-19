@@ -1,0 +1,29 @@
+name: Atualizar status no README
+
+on:
+  schedule:
+    - cron: "0 * * * *" # Atualiza a cada hora
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Buscar status da API
+        run: |
+          STATUS=$(curl -s https://741c-177-128-229-136.ngrok-free.app/status)
+          sed -i "s|<!-- status -->.*<!-- endstatus -->|<!-- status -->$STATUS<!-- endstatus -->|" README.md
+
+      - name: Autenticar com token do GitHub
+        run: |
+          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
+
+      - name: Commit e push
+        run: |
+          git config user.name "github-actions"
+          git config user.email "action@github.com"
+          git commit -am "Atualiza status no README"
+          git push
