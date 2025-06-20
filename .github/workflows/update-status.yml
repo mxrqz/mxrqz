@@ -14,7 +14,7 @@ jobs:
 
       - name: Buscar status da API
         run: |
-          STATUS=$(curl -s https://741c-177-128-229-136.ngrok-free.app/status)
+          STATUS=$(curl -s https://mxrqz-server.onrender.com/status)
           sed -i "s|<!-- status -->.*<!-- endstatus -->|<!-- status -->$STATUS<!-- endstatus -->|" README.md
 
       - name: Autenticar com token do GitHub
