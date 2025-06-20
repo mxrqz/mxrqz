@@ -25,7 +25,7 @@
 
 ### 🛠️ Atualmente trabalhando em
 
-<pre><strong><!-- status -->Refatorando o Dailify 🚀<!-- endstatus --></strong></pre>
+<pre><strong><!-- status -->Dailify<!-- endstatus --></strong></pre>
 
 ---
 
