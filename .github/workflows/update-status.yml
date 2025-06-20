@@ -15,7 +15,7 @@ jobs:
       - name: Buscar status da API
         run: |
           STATUS=$(curl -s https://mxrqz-server.onrender.com/status)
-          sed -i "s|<!-- status -->.*<!-- endstatus -->|<!-- status -->$STATUS<!-- endstatus -->|" README.md
+          sed -i "s|<!-- status -->.*<!-- endstatus -->|<!-- status -->$STATUS<!-- endstatus -->|" readme.md
 
       - name: Autenticar com token do GitHub
         run: |
